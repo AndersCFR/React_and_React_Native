@@ -1,4 +1,4 @@
-# React
+# React and React Native repo
 Aprendiendo React, soy backend pero no me vendría mal algo de front
 
 
@@ -39,5 +39,5 @@ React Fragment, me permite regresar varios elementos jsx
 Cuando se realiza el renderizado de la aplicación primero llegan los default props y posteriormente los 
 prop types.
 
-
+Con los hooks usamos const para evitar que el valor sea alterado
 
