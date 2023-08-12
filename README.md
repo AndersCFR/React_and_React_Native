@@ -41,3 +41,20 @@ prop types.
 
 Con los hooks usamos const para evitar que el valor sea alterado
 
+# Configuración de testing en Vite
+
+> instalar jest
+
+>> yarn add --dev jest
+
+> Agregamos script de test en package json
+
+>> "test": "jest --watchAll" 
+
+> Se deb crear otra carpeta de test, fuera del src para evitar que la aplicación pese más de lo  necesario.
+
+> Instalar types para jest
+
+>> yarn add -D @types/jest
+
+
